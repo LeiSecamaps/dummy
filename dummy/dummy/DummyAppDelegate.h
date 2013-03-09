@@ -1,6 +1,6 @@
 //
 //  DummyAppDelegate.h
-//  dummy
+//  dummy sou foda
 //
 //  Created by Ryniere Silva on 09/03/13.
 //  Copyright (c) 2013 Ryniere Silva. All rights reserved.
