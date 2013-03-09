@@ -6,6 +6,8 @@
 //  Copyright (c) 2013 Ryniere Silva. All rights reserved.
 //
 
+//teste de commit
+
 #import <UIKit/UIKit.h>
 
 @interface DummyAppDelegate : UIResponder <UIApplicationDelegate>
